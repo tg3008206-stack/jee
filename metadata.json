@@ -1,0 +1,7 @@
+{
+  "name": "SCHLAR - JEE Competitive Exam Platform",
+  "description": "A high-precision computer-based competitive examination and assessment platform for JEE Main & Advanced with dedicated Admin, Examiner, and Student workspaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
